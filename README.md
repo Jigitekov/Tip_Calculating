@@ -1,16 +1,14 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-29 at 18 11 12" src="https://github.com/user-attachments/assets/f0d67ebf-f2cf-435e-9af7-f908a620ff5f" /># Tip Calculating App 🧾
-
 A simple and elegant iOS tip calculator application built with Swift and UIKit. This app helps you quickly calculate tips and split bills among friends.
 
 ## Features ✨
 
-- 💰 **Receipt Amount Input**: Enter the total bill amount
-- 📊 **Tip Percentage Slider**: Adjust tip percentage from 0% to 10% using an intuitive slider
-- 👥 **Bill Splitting**: Divide the bill among 2 or more people
-- 🧮 **Automatic Calculation**: Instantly calculates the total amount per person including tip
+-  **Receipt Amount Input**: Enter the total bill amount
+-  **Tip Percentage Slider**: Adjust tip percentage from 0% to 10% using an intuitive slider
+-  **Bill Splitting**: Divide the bill among 2 or more people
+-  **Automatic Calculation**: Instantly calculates the total amount per person including tip
 
-## Screenshots 📱
-
+## Screenshots 
+<img width="800" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-29 at 18 11 12" src="https://github.com/user-attachments/assets/f0d67ebf-f2cf-435e-9af7-f908a620ff5f" /># Tip Calculating App 🧾
 
 
 ## How It Works 🔧
@@ -20,7 +18,7 @@ A simple and elegant iOS tip calculator application built with Swift and UIKit. 
 3. **Choose Number of People**: Increase or decrease the number of people splitting the bill using the +/- buttons
 4. **Calculate**: Tap the "Calculate" button to see the amount each person should pay
 
-## Formula 📐
+## Formula 
 
 ```
 Total per person = (Receipt Amount + (Receipt Amount × Tip %)) ÷ Number of People
