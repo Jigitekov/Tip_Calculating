@@ -1,6 +1,6 @@
 A simple and elegant iOS tip calculator application built with Swift and UIKit. This app helps you quickly calculate tips and split bills among friends.
 
-## Features ✨
+## Features 
 
 -  **Receipt Amount Input**: Enter the total bill amount
 -  **Tip Percentage Slider**: Adjust tip percentage from 0% to 10% using an intuitive slider
@@ -12,7 +12,7 @@ A simple and elegant iOS tip calculator application built with Swift and UIKit. 
 
 
 
-## How It Works 🔧
+## How It Works 
 
 1. **Enter Receipt Amount**: Input the total bill amount in the text field
 2. **Select Tip Percentage**: Use the slider to choose your desired tip (0-10%)
@@ -25,13 +25,13 @@ A simple and elegant iOS tip calculator application built with Swift and UIKit. 
 Total per person = (Receipt Amount + (Receipt Amount × Tip %)) ÷ Number of People
 ```
 
-## Requirements 📋
+## Requirements 
 
 - iOS 13.0+
 - Xcode 12.0+
 - Swift 5.0+
 
-## Installation 🚀
+## Installation 
 
 1. Clone the repository:
 ```bash
@@ -46,7 +46,7 @@ open Tip_Calculating.xcodeproj
 
 3. Build and run the project on your simulator or device
 
-## Usage Example 💡
+## Usage Example 
 
 **Scenario**: You have a restaurant bill of 5000 KZT, want to leave a 5% tip, and split it between 2 people.
 
@@ -56,7 +56,7 @@ open Tip_Calculating.xcodeproj
 4. Tap "Calculate"
 5. **Result**: Each person pays 2625 KZT
 
-## Project Structure 📁
+## Project Structure 
 
 ```
 Tip_Calculating/
@@ -68,7 +68,7 @@ Tip_Calculating/
 └── Info.plist
 ```
 
-## Technologies Used 🛠
+## Technologies Used 
 
 - **Language**: Swift
 - **Framework**: UIKit
