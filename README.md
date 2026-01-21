@@ -8,7 +8,8 @@ A simple and elegant iOS tip calculator application built with Swift and UIKit. 
 -  **Automatic Calculation**: Instantly calculates the total amount per person including tip
 
 ## Screenshots 
-<img width="800" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-29 at 18 11 12" src="https://github.com/user-attachments/assets/f0d67ebf-f2cf-435e-9af7-f908a620ff5f" /># Tip Calculating App 🧾
+<img width="200" height="200" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-29 at 18 11 12" src="https://github.com/user-attachments/assets/f0d67ebf-f2cf-435e-9af7-f908a620ff5f" /># 
+
 
 
 ## How It Works 🔧
